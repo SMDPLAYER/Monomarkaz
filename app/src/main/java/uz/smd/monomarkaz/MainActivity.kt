@@ -13,6 +13,6 @@ class MainActivity : AppCompatActivity() {
       val wb=  findViewById<WebView>(R.id.wbView)
         wb.settings.javaScriptEnabled=true
         wb.setBackgroundColor(Color.TRANSPARENT);
-        wb.loadUrl("https://monomarkaz.uz/")
+        wb.loadUrl("https://uitc.uz/")
     }
 }
